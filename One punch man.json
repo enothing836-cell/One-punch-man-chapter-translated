@@ -261,6 +261,46 @@
         "": "/proxy/api/imgchest/chapter/9p4nrn3vw7n"
       }
     },
+    "126": {
+      "title": "Psykos",
+      "volume": "",
+      "last_updated": "1790811461",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73erbng4r"
+      }
+    },
+    "127": {
+      "title": "Demons Combine!",
+      "volume": "",
+      "last_updated": "1790811500",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45g33pgy5"
+      }
+    },
+    "128": {
+      "title": "Invasive Touch",
+      "volume": "",
+      "last_updated": "1790811582",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zxdd5g7j"
+      }
+    },
+    "129": {
+      "title": "Turn over",
+      "volume": "",
+      "last_updated": "1790811619",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kjoo5k48"
+      }
+    },
+    "130": {
+      "title": "Tatsumaki Full Power",
+      "volume": "",
+      "last_updated": "1790811652",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7ba55rn45"
+      }
+    },
     "238": {
       "title": "Young People ",
       "volume": "",
@@ -307,6 +347,14 @@
       "last_updated": "1790807393",
       "groups": {
         "": "/proxy/api/imgchest/chapter/a8468pl5gyx"
+      }
+    },
+    "127.5": {
+      "title": "127.5",
+      "volume": "",
+      "last_updated": "1790811561",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lq99264x"
       }
     }
   }

@@ -501,6 +501,46 @@
         "": "/proxy/api/imgchest/chapter/qe4gnjb2j7j"
       }
     },
+    "156": {
+      "title": "Divine Retribution",
+      "volume": "",
+      "last_updated": "1790917251",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gnjb6b7j"
+      }
+    },
+    "157": {
+      "title": "Bad Boys",
+      "volume": "",
+      "last_updated": "1790917313",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8avjbp7b"
+      }
+    },
+    "158": {
+      "title": "2 Bad",
+      "volume": "",
+      "last_updated": "1790917337",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wad36z4x"
+      }
+    },
+    "159": {
+      "title": "Blessing",
+      "volume": "",
+      "last_updated": "1790917366",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mdwxnb7d"
+      }
+    },
+    "160": {
+      "title": "Divide",
+      "volume": "",
+      "last_updated": "1790917397",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7badmxn45"
+      }
+    },
     "238": {
       "title": "Young People ",
       "volume": "",
@@ -579,6 +619,14 @@
       "last_updated": "1790905269",
       "groups": {
         "": "/proxy/api/imgchest/chapter/a8468wmpzyx"
+      }
+    },
+    "156.5": {
+      "title": "156.5",
+      "volume": "",
+      "last_updated": "1790917289",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyre9oo67p"
       }
     }
   }

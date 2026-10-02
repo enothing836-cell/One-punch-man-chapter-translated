@@ -541,6 +541,46 @@
         "": "/proxy/api/imgchest/chapter/ne7badmxn45"
       }
     },
+    "161": {
+      "title": "Sinking Feeling",
+      "volume": "",
+      "last_updated": "1790919062",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyre9jmg7p"
+      }
+    },
+    "162": {
+      "title": "Greatest Hero",
+      "volume": "",
+      "last_updated": "1790919100",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7omwnqryp"
+      }
+    },
+    "163": {
+      "title": "Tougher Than a Mountain",
+      "volume": "",
+      "last_updated": "1790919228",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7omwn82yp"
+      }
+    },
+    "164": {
+      "title": "The Abominable Fist that Turned Against God",
+      "volume": "",
+      "last_updated": "1790919271",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7p3e2a34o"
+      }
+    },
+    "165": {
+      "title": "Absolute Evil",
+      "volume": "",
+      "last_updated": "1790919356",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nrw9657n"
+      }
+    },
     "238": {
       "title": "Young People ",
       "volume": "",
@@ -627,6 +667,14 @@
       "last_updated": "1790917289",
       "groups": {
         "": "/proxy/api/imgchest/chapter/6eyre9oo67p"
+      }
+    },
+    "162.5": {
+      "title": "162.5",
+      "volume": "",
+      "last_updated": "1790919179",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqwxl2dy2"
       }
     }
   }

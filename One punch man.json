@@ -381,6 +381,46 @@
         "": "/proxy/api/imgchest/chapter/9rydkxezl4k"
       }
     },
+    "141": {
+      "title": "Rejuvenated Offence ",
+      "volume": "",
+      "last_updated": "1790905025",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jlkzo2y8"
+      }
+    },
+    "142": {
+      "title": "How to behave",
+      "volume": "",
+      "last_updated": "1790905089",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mdw52n7d"
+      }
+    },
+    "143": {
+      "title": "Jupiter, the bringer of jollity",
+      "volume": "",
+      "last_updated": "1790905127",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8468wmgoyx"
+      }
+    },
+    "144": {
+      "title": "Silver Fang",
+      "volume": "",
+      "last_updated": "1790905194",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zxebjd7j"
+      }
+    },
+    "145": {
+      "title": "Superalloy Darkshine",
+      "volume": "",
+      "last_updated": "1790905230",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyv5qbvb48"
+      }
+    },
     "238": {
       "title": "Young People ",
       "volume": "",
@@ -451,6 +491,14 @@
       "last_updated": "1790825181",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4gnepoj7j"
+      }
+    },
+    "145.5": {
+      "title": "145.5",
+      "volume": "",
+      "last_updated": "1790905269",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8468wmpzyx"
       }
     }
   }

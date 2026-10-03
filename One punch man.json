@@ -5,6 +5,70 @@
   "author": "ONE",
   "cover": "https://cdn.imgchest.com/files/0d14481dd3b8.webp",
   "chapters": {
+    "86": {
+      "title": "Hideout",
+      "volume": "",
+      "last_updated": "1791015352",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jl8ve2y8"
+      }
+    },
+    "87": {
+      "title": "Monster side",
+      "volume": "",
+      "last_updated": "1791015438",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8amo957b"
+      }
+    },
+    "88": {
+      "title": "Limiter",
+      "volume": "",
+      "last_updated": "1791015479",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7md8kjn7d"
+      }
+    },
+    "89": {
+      "title": "Hotpot ",
+      "volume": "",
+      "last_updated": "1791015513",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9rydkraol4k"
+      }
+    },
+    "90": {
+      "title": "Because I'm a Monster",
+      "volume": "",
+      "last_updated": "1791015572",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wamgpx4x"
+      }
+    },
+    "91": {
+      "title": "Rover",
+      "volume": "",
+      "last_updated": "1791015596",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2k23vzyl"
+      }
+    },
+    "92": {
+      "title": "Manhole",
+      "volume": "",
+      "last_updated": "1791015614",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8468dkj2yx"
+      }
+    },
+    "93": {
+      "title": "Let's go",
+      "volume": "",
+      "last_updated": "1791015651",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrel8ql7p"
+      }
+    },
     "94": {
       "title": "I see",
       "volume": "",
@@ -1291,6 +1355,30 @@
       "last_updated": "1790997311",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7lq2nn64x"
+      }
+    },
+    "86.5": {
+      "title": "86.5",
+      "volume": "",
+      "last_updated": "1791015396",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyv5rwjj48"
+      }
+    },
+    "89.5": {
+      "title": "89.5",
+      "volume": "",
+      "last_updated": "1791015559",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2k23jzyl"
+      }
+    },
+    "92.5": {
+      "title": "92.5",
+      "volume": "",
+      "last_updated": "1791015641",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jl8vx9y8"
       }
     }
   }
